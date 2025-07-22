@@ -1,0 +1,1 @@
+Shown Theoritical guarantees match with emperical results, from this paper https://www.jmlr.org/papers/volume25/23-1042/23-1042.pdf which indeed holds true for one layer linear model which always learn linear predicts in context with some assumsions.
